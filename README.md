@@ -8,6 +8,7 @@ Voy tocando diferentes lenguajes de programación (de entre ellos, Java, Kotlin,
 |  Nombre | .java | Ejercicio CW | Nivel |
 |---|---|---|---|
 | Exes and Ohs | [archivo](https://github.com/insonyy/CodeWars-katas/blob/main/java/ExsAndOhs.java)  |  [ejercicio](https://www.codewars.com/kata/55908aad6620c066bc00002a) | 7 kyu |
+| List Filtering | [archivo](https://github.com/insonyy/CodeWars-katas/blob/main/java/ListFiltering.java) | [ejercicio](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/solutions/java) | 7 kyu |
 
 
 ### Ejercicios de Kotlin
@@ -17,6 +18,7 @@ Voy tocando diferentes lenguajes de programación (de entre ellos, Java, Kotlin,
 |  Nombre | .py | Ejercicio CW | Nivel |
 |---|---|---|---|
 | Multiply | [archivo](https://github.com/insonyy/CodeWars-katas/blob/main/python/multiply.py)  |  [ejercicio](https://www.codewars.com/kata/50654ddff44f800200000004) | 8 kyu |
+
 
 ### Ejercicios de COBOL
 
