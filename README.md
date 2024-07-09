@@ -9,6 +9,7 @@ Voy tocando diferentes lenguajes de programación (de entre ellos, Java, Kotlin,
 |---|---|---|---|
 | Exes and Ohs | [archivo](https://github.com/insonyy/CodeWars-katas/blob/main/java/ExsAndOhs.java)  |  [ejercicio](https://www.codewars.com/kata/55908aad6620c066bc00002a) | 7 kyu |
 | List Filtering | [archivo](https://github.com/insonyy/CodeWars-katas/blob/main/java/ListFiltering.java) | [ejercicio](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/solutions/java) | 7 kyu |
+| Regex Validate PIN Code | [archivo](https://github.com/insonyy/CodeWars-katas/blob/main/java/RegexValidatePINCode.java) | [ejercicio](https://www.codewars.com/kata/55f8a9c06c018a0d6e000132) | 7 kyu |
 
 
 ### Ejercicios de Kotlin
